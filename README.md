@@ -2,7 +2,7 @@
 
 | Category | Detail |
 | :--- | :--- |
-| **Course** | Principles of Predictive Analytics (ISM XXX) |
+| **Course** | Principles of Predictive Analytics (ISM 645) |
 | **Duration** | October 2025 - December 2025 |
 | **Tools/Stack** | **Python** (Pandas, NumPy, Scikit-learn, Matplotlib), Jupyter Notebooks |
 | **Focus** | Applying machine learning models (e.g., Classification/Regression) to extract actionable business insights from data. |
